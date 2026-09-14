@@ -15,10 +15,10 @@
 <a href="https://manav-jagtap.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.linkedin.com/in/manav-jagtap-978506297/">
+<a href="https://www.linkedin.com/in/manav-jagtap22/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:manavjagtap22@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manavjagtap22@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
@@ -194,7 +194,7 @@ I'm always interested in learning, building useful projects, and connecting with
 
 <a href="https://manav-jagtap.github.io/portfolio/">Portfolio</a>
 &nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/manav-jagtap-978506297/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/manav-jagtap22/">LinkedIn</a>
 &nbsp; • &nbsp;
 <a href="https://github.com/manav-jagtap">GitHub</a>
 
