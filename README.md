@@ -49,7 +49,7 @@ My approach is simple: **learn concepts, build projects, test them, and improve 
 - 🖥️ Practicing **Windows Server & hybrid infrastructure**
 - 🗄️ Working with **SQL and relational databases**
 - 🌐 Building responsive web applications
-- 🔧 Improving my **Git & GitHub workflow**
+- 🔧 Improving my **GitHub workflow**
 - 🧠 Practicing **DSA with Python**
 
 ---
@@ -66,13 +66,13 @@ My approach is simple: **learn concepts, build projects, test them, and improve 
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
 
 <br>
 
 ### Cloud & Development Tools
 
-<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,pycharm" alt="Cloud and development tools"/>
+<img src="https://skillicons.dev/icons?i=azure,github,vscode,pycharm" alt="Cloud and development tools"/>
 
 <br><br>
 
@@ -84,11 +84,22 @@ My approach is simple: **learn concepts, build projects, test them, and improve 
 
 ## 📂 Projects I'm Proud Of
 
-### 🎫 Event Management System
+### 🎟️ EventHub — Event Management & Digital Ticketing Platform
 
-A Django-based web application designed to manage events, registrations, users, and event-related workflows.
+A Django-based platform for attendees, organizers, and administrators to manage complete event workflows.
 
-**Tech:** `Python` • `Django` • `HTML` • `CSS` • `Bootstrap` • `SQLite`
+**Highlights:**
+- Event discovery with search and filters
+- Confirmed booking and automatic FIFO waitlist handling
+- QR-based digital tickets with unique ticket IDs
+- Organizer ticket verification and attendee check-in
+- Role-based dashboards for attendees, organizers, and admins
+- Event analytics with registration and attendance insights
+- Live deployment on Render
+
+🔗 **[Open EventHub Live](https://eventmanagement-8ndb.onrender.com)**
+
+**Tech:** `Python` • `Django` • `HTML` • `CSS` • `Bootstrap` • `SQLite` • `Chart.js`
 
 ---
 
@@ -106,11 +117,23 @@ A cloud cost optimization prototype that analyzes resource utilization and ident
 
 ---
 
-### ⚽ TurfPay
+### ⚽ TurfPay — Turf Booking Platform
 
-A turf booking platform for turf owners and customers with booking, slot management, and owner-side functionality.
+A web-based turf discovery and booking platform for customers and turf owners.
 
-**Tech:** `Python` • `Django` • `SQLite` • `HTML` • `CSS` • `Bootstrap`
+**Highlights:**
+- Search and explore sports turfs by location, sport, and price
+- View turf details, facilities, pricing, and available slots
+- Book available slots and manage personal booking history
+- Cancel bookings with automatic slot availability updates
+- Separate turf-owner dashboard for turf and booking management
+- Duplicate booking protection for the same turf and time slot
+- Django Admin support for overall platform management
+- Live deployment on Render
+
+🔗 **[Open TurfPay Live](https://turfpay.onrender.com/)**
+
+**Tech:** `Python` • `Django` • `HTML` • `CSS` • `JavaScript`
 
 ---
 
@@ -125,7 +148,7 @@ An MCQ examination and result management system with role-based access and autom
 - Automatic result generation
 - Analytics and certificates
 
-**Tech:** `Python` • `Django` • `PostgreSQL` • `Bootstrap` • `Chart.js`
+**Tech:** `Python` • `Django` • `Bootstrap` • `Chart.js`
 
 ---
 
@@ -149,37 +172,12 @@ Along with development, I have hands-on practice with:
 
 ---
 
-## 🎯 Currently Leveling Up
-
-```text
-Azure Administration      ███████░░░
-Python & Django           ███████░░░
-SQL & Databases           ██████░░░░
-Git & GitHub              ██████░░░░
-DSA with Python           ████░░░░░░
-```
-
-**Current focus:** `Azure Administration` • `Python DSA` • `Django Backend` • `SQL` • `Cloud Infrastructure`
-
----
-
 ## 🏅 Certifications & Learning
 
 - 🏆 **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - 🐍 **HackerRank Python (Basic)**
-- ☁️ **AWS Educate — Getting Started with AWS Management Console**
-
----
-
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manav-jagtap&show_icons=true&hide_border=true&theme=transparent" alt="Manav's GitHub stats"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manav-jagtap&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-
-</div>
+- ☕ **HackerRank Java (Basic)**
+- 🗄️ **HackerRank SQL (Basic)**
 
 ---
 
