@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Manav Jagtap animated profile banner"/>
+<img src="./assets/manav-banner-v2.svg" width="100%" alt="Manav Jagtap animated profile banner"/>
 
 <br>
 
