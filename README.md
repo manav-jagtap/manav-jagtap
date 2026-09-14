@@ -1,14 +1,12 @@
 <!-- PROFILE README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:0EA5E9&height=170&section=header" width="100%"/>
-
 <div align="center">
 
-# Hi, I'm Manav Jagtap 👋
+# Manav Jagtap
 
 ### B.Sc. Computer Science Student | Python & Django | Cloud & Azure
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+practical+web+applications;Exploring+Cloud+%26+Azure;Learning+through+hands-on+projects" alt="Typing animation" />
+**Building practical software, cloud, and infrastructure projects through hands-on learning.**
 
 <br>
 
@@ -27,6 +25,10 @@
 <a href="mailto:manavjagtap22@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+<br><br>
+
+`Python` • `Django` • `Microsoft Azure` • `Windows Server` • `SQL`
 
 </div>
 
@@ -103,17 +105,22 @@ A Django-based platform for attendees, organizers, and administrators to manage 
 
 ---
 
-### ☁️ CloudWise
+### ☁️ CloudWise — Multi-Cloud Cost & Resource Optimization Platform
 
 A cloud cost optimization prototype that analyzes resource utilization and identifies possible cost-saving opportunities.
 
 **Highlights:**
-- CSV-based cloud resource analysis
-- Detects idle and underutilized resources
-- Generates optimization recommendations
-- Estimates potential monthly savings
+- Multi-cloud file support for Azure, AWS, GCP, and offline datasets
+- Detects idle, underutilized, normal, and overutilized resources
+- Generates optimization recommendations and priority scores
+- Estimates potential monthly savings and optimized cost
+- Dashboard analytics with charts and top optimization opportunities
+- CSV and PDF report export
+- Live deployment on Render
 
-**Tech:** `Python` • `Django` • `Pandas` • `NumPy`
+🔗 **[Open CloudWise Live](https://cloudwise-afx3.onrender.com)**
+
+**Tech:** `Python` • `Django` • `Pandas` • `NumPy` • `Chart.js`
 
 ---
 
@@ -197,8 +204,8 @@ I'm always interested in learning, building useful projects, and connecting with
 
 <br><br>
 
-### Thanks for visiting my profile! 👋
+**Build. Learn. Improve.**
+
+<sub>Thanks for visiting my profile.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:0EA5E9&height=100&section=footer" width="100%"/>
