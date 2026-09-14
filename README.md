@@ -2,11 +2,7 @@
 
 <div align="center">
 
-# Manav Jagtap
-
-### B.Sc. Computer Science Student | Python & Django | Cloud & Azure
-
-**Building practical software, cloud, and infrastructure projects through hands-on learning.**
+<img src="./assets/profile-banner.svg" width="100%" alt="Manav Jagtap animated profile banner"/>
 
 <br>
 
