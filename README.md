@@ -2,206 +2,169 @@
 
 <div align="center">
 
-<img src="./assets/manav-banner-v2.svg" width="100%" alt="Manav Jagtap animated profile banner"/>
+<img src="./assets/manav-banner-v2.svg" width="100%" alt="Manav Jagtap profile banner"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Sc._Computer_Science-0F172A?style=flat-square" alt="BSc Computer Science"/>
+<img src="https://img.shields.io/badge/B.Sc._Computer_Science-0F172A?style=flat-square" alt="B.Sc. Computer Science"/>
 <img src="https://img.shields.io/badge/CGPA-9.36-16A34A?style=flat-square" alt="CGPA 9.36"/>
-<img src="https://img.shields.io/badge/India-0369A1?style=flat-square" alt="India"/>
+<img src="https://img.shields.io/badge/AZ--900-Certified-0078D4?style=flat-square&logo=microsoftazure" alt="Microsoft Azure Fundamentals certified"/>
 
 <br><br>
 
-<a href="https://manav-jagtap.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/manav-jagtap22/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manavjagtap22@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://manav-jagtap.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/manav-jagtap22/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:manavjagtap22@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br><br>
 
-`Python` • `Django` • `Microsoft Azure` • `Windows Server` • `SQL`
+`Python` • `Django` • `SQL` • `Microsoft Azure` • `Windows Server`
 
 </div>
 
 ---
 
-## 👨‍💻 A Little About Me
+## About Me
 
-I'm a **B.Sc. Computer Science student** focused on learning software development, cloud technologies, and IT infrastructure through practical projects.
+I'm a **B.Sc. Computer Science student** who builds practical backend web applications and develops hands-on skills in cloud and IT infrastructure.
 
-I enjoy working with **Python, Django, databases, Microsoft Azure, and Windows Server**, while continuously improving my problem-solving and development skills.
+My work includes Django applications for cloud-cost analysis, event registration, QR ticketing, turf booking, authentication, analytics, and role-based access control. Alongside development, I practice Microsoft Azure administration and Windows Server in lab environments.
 
-My approach is simple: **learn concepts, build projects, test them, and improve them.**
-
----
-
-## 🚀 What I'm Building & Learning
-
-- 🐍 Building practical applications with **Python & Django**
-- ☁️ Learning **Microsoft Azure** through hands-on labs
-- 🖥️ Practicing **Windows Server & hybrid infrastructure**
-- 🗄️ Working with **SQL and relational databases**
-- 🌐 Building responsive web applications
-- 🔧 Improving my **GitHub workflow**
-- 🧠 Practicing **DSA with Python**
+- 🎓 B.Sc. Computer Science — **CGPA 9.36**
+- 🏆 Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- ☁️ Hands-on practice with Azure administration and Windows Server
+- 🔧 Building, testing, and deploying Django applications
+- 📍 Maharashtra, India
 
 ---
 
-## 🧰 Tools I Use
+## Technical Skills
 
 <div align="center">
 
-### Programming & Web
-
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap" alt="Programming and Web skills"/>
-
-<br>
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
-
-<br>
-
-### Cloud & Development Tools
-
-<img src="https://skillicons.dev/icons?i=azure,github,vscode,pycharm" alt="Cloud and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,sqlite,azure,github,vscode,pycharm" alt="Technical skills"/>
 
 <br><br>
 
+`Python` • `Django` • `HTML` • `CSS` • `JavaScript` • `Bootstrap`  
+`SQL` • `MySQL` • `SQLite` • `Git` • `GitHub`  
 `Microsoft Azure` • `Windows Server` • `Active Directory` • `RBAC` • `Azure Networking`
 
 </div>
 
 ---
 
-## 📂 Projects I'm Proud Of
+## Featured Projects
 
-### 🎟️ EventHub — Event Management & Digital Ticketing Platform
+### 🎟️ EventHub — Event Management & Digital Ticketing
 
-A Django-based platform for attendees, organizers, and administrators to manage complete event workflows.
+A deployed Django application supporting event discovery, capacity-aware registration, FIFO waitlisting, QR tickets, organizer check-in, and attendance analytics.
 
-**Highlights:**
-- Event discovery with search and filters
-- Confirmed booking and automatic FIFO waitlist handling
-- QR-based digital tickets with unique ticket IDs
-- Organizer ticket verification and attendee check-in
-- Role-based dashboards for attendees, organizers, and admins
-- Event analytics with registration and attendance insights
-- Live deployment on Render
+**Engineering highlights**
 
-🔗 **[Open EventHub Live](https://eventmanagement-8ndb.onrender.com)**
+- Role-based access for attendees, organizers, and administrators
+- Transaction-based booking and cancellation workflows
+- Automatic promotion of the oldest waitlisted attendee
+- UUID-based digital tickets and duplicate check-in prevention
+- Automated tests for booking rules and access control
 
-**Tech:** `Python` • `Django` • `HTML` • `CSS` • `Bootstrap` • `SQLite` • `Chart.js`
+**Tech:** `Python` • `Django` • `SQLite` • `Bootstrap` • `Chart.js`
+
+[Live Demo](https://eventmanagement-8ndb.onrender.com) • [Source Code](https://github.com/manav-jagtap/EventManagement)
 
 ---
 
-### ☁️ CloudWise — Multi-Cloud Cost & Resource Optimization Platform
+### ☁️ CloudWise — Multi-Cloud Cost Optimization
 
-A cloud cost optimization prototype that analyzes resource utilization and identifies possible cost-saving opportunities.
+A Django and Pandas prototype that normalizes Azure-, AWS-, GCP-, and manually structured resource data and identifies possible cost-saving opportunities.
 
-**Highlights:**
-- Multi-cloud file support for Azure, AWS, GCP, and offline datasets
-- Detects idle, underutilized, normal, and overutilized resources
-- Generates optimization recommendations and priority scores
-- Estimates potential monthly savings and optimized cost
-- Dashboard analytics with charts and top optimization opportunities
-- CSV and PDF report export
-- Live deployment on Render
+**Engineering highlights**
 
-🔗 **[Open CloudWise Live](https://cloudwise-afx3.onrender.com)**
+- Provider-specific data normalization into one common schema
+- Validation for malformed, invalid, and duplicate resource records
+- Resource classification, priority scoring, and estimated savings
+- Dashboard analytics with downloadable CSV and PDF reports
+- Automated tests for the optimization engine
 
-**Tech:** `Python` • `Django` • `Pandas` • `NumPy` • `Chart.js`
+**Tech:** `Python` • `Django` • `Pandas` • `NumPy` • `Chart.js` • `ReportLab`
+
+[Live Demo](https://cloudwise-afx3.onrender.com) • [Source Code](https://github.com/manav-jagtap/CloudWise)
 
 ---
 
 ### ⚽ TurfPay — Turf Booking Platform
 
-A web-based turf discovery and booking platform for customers and turf owners.
+A turf-discovery and slot-booking application for customers, turf owners, and administrators.
 
-**Highlights:**
-- Search and explore sports turfs by location, sport, and price
-- View turf details, facilities, pricing, and available slots
-- Book available slots and manage personal booking history
-- Cancel bookings with automatic slot availability updates
-- Separate turf-owner dashboard for turf and booking management
-- Duplicate booking protection for the same turf and time slot
-- Django Admin support for overall platform management
-- Live deployment on Render
+**Highlights**
 
-🔗 **[Open TurfPay Live](https://turfpay.onrender.com/)**
+- Search turfs by location, sport, and price
+- Slot booking, cancellation, and booking history
+- Separate customer and owner workflows
+- Duplicate-booking protection
+- PostgreSQL production database and Render deployment
 
-**Tech:** `Python` • `Django` • `HTML` • `CSS` • `JavaScript`
+**Tech:** `Python` • `Django` • `PostgreSQL` • `HTML` • `CSS` • `JavaScript`
+
+[Live Demo](https://turfpay.onrender.com/)
+
+> Source repository is currently private.
 
 ---
 
-### 📝 PrepX
+### 📝 PrepX — Collaborative Final-Year Project
 
-An MCQ examination and result management system with role-based access and automated assessment features.
+A team-built MCQ examination and result-management system for students, teachers, and administrators.
 
-**Highlights:**
-- Student, Teacher & Admin roles
+**Highlights**
+
 - Practice and examination modes
-- Question management
-- Automatic result generation
-- Analytics and certificates
+- Private question-bank management
+- Timed exams, negative marking, and randomized questions
+- Automated results, analytics, and certificates
+- Role-based workflows for students, teachers, and administrators
 
-**Tech:** `Python` • `Django` • `Bootstrap` • `Chart.js`
+**Tech:** `Python` • `Django` • `Django REST Framework` • `PostgreSQL` • `Bootstrap` • `Chart.js`
+
+[Team Repository](https://github.com/aniketbiradar-official/PrepX)
 
 ---
 
 ### 🌐 Personal Portfolio
 
-My personal portfolio showcasing projects, skills, certifications, and my learning journey.
+A responsive portfolio presenting my projects, skills, certifications, resume, and contact links.
 
-🔗 **[Visit Portfolio](https://manav-jagtap.github.io/portfolio/)**
-
-**Tech:** `HTML` • `CSS` • `JavaScript` • `GitHub Pages`
+[Live Website](https://manav-jagtap.github.io/portfolio/) • [Source Code](https://github.com/manav-jagtap/portfolio)
 
 ---
 
-## ☁️ Cloud & Infrastructure Practice
+## Cloud & Infrastructure Practice
 
-Along with development, I have hands-on practice with:
+**Microsoft Azure:** Entra ID, users and groups, RBAC, Azure Policy, resource groups, virtual networks, Point-to-Site VPN, Storage, and Logic Apps.
 
-`Microsoft Azure` • `Microsoft Entra ID` • `Users & Groups` • `Azure RBAC` • `Azure Policy` • `Resource Groups` • `Virtual Networks` • `Point-to-Site VPN` • `Azure Storage` • `Logic Apps`
-
-`Windows Server` • `Active Directory Domain Services` • `DHCP` • `DFS` • `Group Policy` • `WSUS` • `Network Load Balancing` • `Failover Clustering`
+**Windows Server:** Active Directory Domain Services, DNS, DHCP, DFS, Group Policy, WSUS, Network Load Balancing, Failover Clustering, and hybrid infrastructure labs.
 
 ---
 
-## 🏅 Certifications & Learning
+## Certifications
 
-- 🏆 **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- 🐍 **HackerRank Python (Basic)**
-- ☕ **HackerRank Java (Basic)**
-- 🗄️ **HackerRank SQL (Basic)**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **HackerRank Python (Basic)**
+- **HackerRank Java (Basic)**
+- **HackerRank SQL (Basic)**
 
 ---
-
-## 🤝 Let's Connect
 
 <div align="center">
 
-I'm always interested in learning, building useful projects, and connecting with people working in **software development, cloud, and IT infrastructure**.
+### Let's Connect
+
+[Portfolio](https://manav-jagtap.github.io/portfolio/) •
+[LinkedIn](https://www.linkedin.com/in/manav-jagtap22/) •
+[Email](mailto:manavjagtap22@gmail.com)
 
 <br>
 
-<a href="https://manav-jagtap.github.io/portfolio/">Portfolio</a>
-&nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/manav-jagtap22/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/manav-jagtap">GitHub</a>
-
-<br><br>
-
-**Build. Learn. Improve.**
-
-<sub>Thanks for visiting my profile.</sub>
+**Build. Test. Learn.**
 
 </div>
