@@ -106,9 +106,7 @@ A turf-discovery and slot-booking application for customers, turf owners, and ad
 
 **Tech:** `Python` • `Django` • `PostgreSQL` • `HTML` • `CSS` • `JavaScript`
 
-[Live Demo](https://turfpay.onrender.com/)
-
-> Source repository is currently private.
+[Live Demo](https://turfpay.onrender.com/) • [Source Code](https://github.com/manav-jagtap/TurfPay)
 
 ---
 
@@ -127,6 +125,25 @@ A team-built MCQ examination and result-management system for students, teachers
 **Tech:** `Python` • `Django` • `Django REST Framework` • `PostgreSQL` • `Bootstrap` • `Chart.js`
 
 [Team Repository](https://github.com/aniketbiradar-official/PrepX)
+
+---
+
+### ☁️ AZ-104 Practice Hub
+
+A browser-based Microsoft Azure Administrator practice platform with topic-wise mock exams, timed assessments, answer review, visual question practice, and result tracking.
+
+**Highlights**
+
+- Topic-wise AZ-104 mock exams with dedicated question pools
+- 50-mark timed mocks with a 60-minute exam timer
+- Separate Normal and Visual question banks
+- Answer review, scoring, unanswered tracking, and question palette
+- Student result tracking through Google Apps Script and Google Sheets
+- Responsive interface deployed with Cloudflare Pages
+
+**Tech:** `HTML` • `CSS` • `JavaScript` • `Google Apps Script` • `Google Sheets` • `Cloudflare Pages`
+
+[Live Demo](https://az104-practice-hub.pages.dev/) • [Source Code](https://github.com/manav-jagtap/az104-practice-hub)
 
 ---
 
